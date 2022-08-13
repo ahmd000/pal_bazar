@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "709498068085",
+    "firebase_url": "https://sharp-effort-299723-default-rtdb.firebaseio.com",
+    "project_id": "sharp-effort-299723",
+    "storage_bucket": "sharp-effort-299723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709498068085:android:bf43812a002104f0446c3c",
+        "android_client_info": {
+          "package_name": "com.app.pal_bazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709498068085-a7msnl688kpsengjq29dnuekv79fokse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcI5SurZJF9jDVre70eIU40GLQhauaYco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709498068085-a7msnl688kpsengjq29dnuekv79fokse.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "709498068085-1vqhaj5hnvk6uulojs2jrij38gllvsbj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.palBazar.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
